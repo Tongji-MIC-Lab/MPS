@@ -120,3 +120,4 @@ All contributions proposed by MSP, including WPP multithreading implementation, 
 Please cite the following paper if you use this code:
 
 Bo Xiao, Hanli Wang, Jun Wu, Sam Kwong, and C.-C. Jay Kuo, A Multi-grained Parallel Solution for HEVC Encoding on Heterogeneous Platforms, *IEEE Transactions on Multimedia*, vol. 21, no. 12, pp. 2997-3009, Dec. 2019.
+
